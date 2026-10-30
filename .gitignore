@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment
+.env
+.env*.local
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Output files
+output/*
+!output/.gitkeep
+
+# History data (optional to ignore or keep)
+history/*
+!history/.gitkeep
+
+# OS Files
+.DS_Store
+Thumbs.db
